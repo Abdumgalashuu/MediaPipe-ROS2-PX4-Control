@@ -4,7 +4,7 @@ A modular ROS2-based hand gesture drone control system using MediaPipe, MAVSDK, 
 
 A modular ROS2-based hand gesture drone control system using **MediaPipe**, **ROS2**, **MAVSDK**, **PX4**, and **Gazebo** simulation.
 
-![Project Preview](p.png)
+![Project Preview](p.jpeg)
 
 ---
 
@@ -217,11 +217,3 @@ python3 ~/ros2_ws/src/px4_control/px4_control/px4_control_node.py
 | Center          | STOP     |
 
 ---
-
-## Preview
-
-![Project Preview](p.png)
-
-
-
-
