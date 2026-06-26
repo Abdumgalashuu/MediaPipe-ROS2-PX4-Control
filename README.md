@@ -230,53 +230,6 @@ python3 ~/ros2_ws/src/px4_control/px4_control/px4_control_node.py
 * PX4 Support
 * Gazebo Simulation
 
----
 
-# Why This Project?
 
-Instead of controlling the drone directly inside a single Python script, this project separates every subsystem into ROS2 nodes.
 
-This makes the system easier to maintain, debug and extend.
-
-For example, the MediaPipe node can later be replaced by:
-
-* YOLO
-* LiDAR
-* QR Detection
-* Object Tracking
-* Voice Commands
-
-without changing the flight controller.
-
----
-
-# Future Work
-
-* Smooth PID-based drone movement
-* Full PX4 autonomous control
-* YOLO integration
-* QR Landing
-* LiDAR integration
-* ROS2 Launch files
-* Mission management node
-* Decision-making node
-* Multi-drone support
-
----
-
-# Technologies
-
-* Python
-* ROS2 Humble
-* MediaPipe
-* OpenCV
-* MAVSDK
-* PX4
-* Gazebo
-* Ubuntu 22.04
-
----
-
-# License
-
-This project is released under the MIT License.
