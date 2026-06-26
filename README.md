@@ -218,17 +218,9 @@ python3 ~/ros2_ws/src/px4_control/px4_control/px4_control_node.py
 
 ---
 
-# Current Features
+## Preview
 
-* ROS2 Humble Workspace
-* Modular ROS2 Nodes
-* MediaPipe Hand Tracking
-* Real-time Gesture Detection
-* ROS2 Publisher
-* ROS2 Subscriber
-* MAVSDK Integration
-* PX4 Support
-* Gazebo Simulation
+![Project Preview](p.png)
 
 
 
